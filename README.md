@@ -1,6 +1,3 @@
-# Technical Requirements
-
-# 📋 Technical Requirements
 
 ## 🛠️ System Requirements
 To run this React Native application locally, ensure your system meets the following requirements:
@@ -44,13 +41,13 @@ To run this React Native application locally, ensure your system meets the follo
 
 ## ✅ Features Implemented
 
-- 🔁 Paginated listing of artworks from the API  
-- 🔍 Artwork search by keyword  
-- 🖼️ Artwork detail modal view  
-- ❤️ Add/remove favorites with local storage using AsyncStorage  
-- 🧩 Image display with fallback for missing images  
-- 📤 Share artwork details via device sharing interface  
-- 💾 Persistent favorite artworks across sessions  
+-  Paginated listing of artworks from the API  
+-  Artwork search by keyword  
+-  Artwork detail modal view  
+-  Add/remove favorites with local storage using AsyncStorage  
+-  Image display with fallback for missing images  
+-  Share artwork details via device sharing interface  
+-  Persistent favorite artworks across sessions  
 
 ---
 
